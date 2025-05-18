@@ -21,3 +21,5 @@ Hello Explorer, I'm Alex!<br>Im 17 Years old<br>Junior Dev & Student<br>Currentl
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/13/64/f3/1364f301d7181e2acc516f702c4ce274.gif"  />
 
+<scr="https://stats.fm/11papersoldier/tracks?range=weeks" />
+

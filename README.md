@@ -65,15 +65,11 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/19sx/19sx/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
   <a href="https://open.spotify.com/user/Alex">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Alex&count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=313cbiapdbfuroa476vj4xsayova&width=100)" alt="Spotify recently played"  />
   </a>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

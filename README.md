@@ -2,6 +2,9 @@
 Hello Explorer, I'm Alex!<br>Im 17 Years old<br>Junior Dev & Student<br>Currently doing CS50 and learning Javascipt
 
 
+<img align="right" height="150" src="https://i.pinimg.com/originals/13/64/f3/1364f301d7181e2acc516f702c4ce274.gif"  />
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/a7ex.L) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexander-herman-48b889317) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/19sx) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/25701100) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:al7xdev@proton.me) 
 
@@ -19,7 +22,4 @@ Hello Explorer, I'm Alex!<br>Im 17 Years old<br>Junior Dev & Student<br>Currentl
 [![](https://visitcount.itsvg.in/api?id=19sx&icon=10&color=12)](https://visitcount.itsvg.in)
 
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/13/64/f3/1364f301d7181e2acc516f702c4ce274.gif"  />
-
-<scr="https://stats.fm/11papersoldier/tracks?range=weeks" />
 

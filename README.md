@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 From Augsburg <br>💬 16 years old<br>⚡ I love Football & Technology
+🔭 From Augsburg <br>💬 17 years old<br>⚡ I love Football & Technology
 
 
 ## 🌐 Socials:

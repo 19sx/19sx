@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hello Explorer, I'm Alex!<br>Im 17 Years old<br>Junior Dev & Student<br>Currently doing CS50 and learning Javascipt
+Hello Explorer, I'm Alex!<br>Im 17 Years old<br>Junior Dev & Student<br>Currently doing CS50W and learning Java
+
+<br> CS50X ✅️
+<br> CISCO NETWORKING BASICS ✅️
+<br> and much more to come!
 
 
 <img  height="150" src="https://i.pinimg.com/originals/13/64/f3/1364f301d7181e2acc516f702c4ce274.gif"  />

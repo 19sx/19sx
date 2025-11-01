@@ -75,7 +75,7 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
 ## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=19sxE&show_icons=true&theme=tokyonight" alt="Alex's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=19sx&show_icons=true&theme=tokyonight" alt="Alex's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19sx&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 

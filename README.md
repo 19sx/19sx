@@ -23,9 +23,14 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
 * ⏳ **Harvard's CS50W** (Web Programming with Python and JavaScript) - In Progress
 
   ## 💻 My Tech Stack
+## 💻 My Tech Stack
 
 <table>
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br><strong>C</strong>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
       <br><strong>Python</strong>
@@ -35,22 +40,8 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
       <br><strong>Java</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br><strong>C</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br><strong>Figma</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-      <br><strong>Photoshop</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
@@ -60,16 +51,33 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
       <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
       <br><strong>CSS3</strong>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br><strong>Flask</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br><strong>MySQL</strong>
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
+      <br><strong>SQLite</strong>
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><strong>Git</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="httpsT://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <br><strong>Figma</strong>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
+      <br><strong>Photoshop</strong>
+    </td>
+    <td align="center" width="96">
+      </td>
   </tr>
 </table>
+
 
 
 ## 📊 My GitHub Stats

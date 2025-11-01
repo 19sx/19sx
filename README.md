@@ -90,5 +90,3 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
 
 ## 🎧 MUSIC IS LIFE
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uzbcbt23cmxbtcrqjtl6yruy7q&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uzbcbt23cmxbtcrqjtl6yruy7q&redirect=true)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/:843944313934315530)](https://discord.com/users/:843944313934315530)

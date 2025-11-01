@@ -15,6 +15,13 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
 * 🛠️ I'm also exploring **AI development**, **Photoshop**, and **Figma**.
 * 💡 I love collaborating on projects. If you have an idea, let's talk!
 
+
+## 🎓 My Certificates & Learning
+
+* ✅ **Cisco Networking Basics** - Completed
+* ✅ **Harvard's CS50X** (Introduction to Computer Science) - Completed
+* ⏳ **Harvard's CS50W** (Web Programming with Python and JavaScript) - In Progress
+
   ## 💻 My Tech Stack
 
 <table>
@@ -63,4 +70,12 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
     </td>
   </tr>
 </table>
+
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=19sxE&show_icons=true&theme=tokyonight" alt="Alex's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19sx&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 

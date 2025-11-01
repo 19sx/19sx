@@ -22,7 +22,6 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
 * ✅ **Harvard's CS50X** (Introduction to Computer Science) - Completed
 * ⏳ **Harvard's CS50W** (Web Programming with Python and JavaScript) - In Progress
 
-  ## 💻 My Tech Stack
 ## 💻 My Tech Stack
 
 <table>
@@ -44,7 +43,7 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
       <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <img src="httpsd://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br><strong>HTML5</strong>
     </td>
     <td align="center" width="96">
@@ -66,7 +65,7 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
       <br><strong>Git</strong>
     </td>
     <td align="center" width="96">
-      <img src="httpsT://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
+      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
       <br><strong>Figma</strong>
     </td>
     <td align="center" width="96">
@@ -74,7 +73,9 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
       <br><strong>Photoshop</strong>
     </td>
     <td align="center" width="96">
-      </td>
+      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
+      <br><strong>IntelliJ</strong>
+    </td>
   </tr>
 </table>
 

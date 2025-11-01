@@ -89,5 +89,5 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
 </p>
 
 ## 🎧 MUSIC IS LIFE
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uzbcbt23cmxbtcrqjtl6yruy7q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uzbcbt23cmxbtcrqjtl6yruy7q&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 

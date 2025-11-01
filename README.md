@@ -1,7 +1,7 @@
 # Hi there, I'm Alex! 👋
 
 <p align="center">
-  <img src="https://github.com/19sx/19sx/blob/main/banner.png?raw=true" alt="Alexander Herman - Shaping the Future Banner">
+  <img src="https://github.com/19sx/19sx/blob/main/bannerr.png?raw=true" alt="Alexander Herman - Shaping the Future Banner">
 </p>
 
 I'm a 17-year-old aspiring software developer from Augsburg, Germany. 🇩🇪

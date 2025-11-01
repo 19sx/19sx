@@ -43,7 +43,7 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
       <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="96">
-      <img src="httpsd://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br><strong>HTML5</strong>
     </td>
     <td align="center" width="96">
@@ -87,4 +87,7 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
   <img src="https://github-readme-stats.vercel.app/api?username=19sx&show_icons=true&theme=tokyonight" alt="Alex's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19sx&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
+## 🎧 MUSIC IS LIFE
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uzbcbt23cmxbtcrqjtl6yruy7q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
 

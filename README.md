@@ -79,9 +79,6 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19sx&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
-## 🎧 MUSIC IS LIFE
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31uzbcbt23cmxbtcrqjtl6yruy7q&cover_image=true&theme=apple&show_offline=false&background_color=121212&interchange=true&profanity=false&mode=light)](https://spotify-github-profile.kittinanx.com/api/view?uid=31uzbcbt23cmxbtcrqjtl6yruy7q&redirect=true)
+## Music keeps me Focused
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hcltkeawbpxxzximwxef76gkyy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)

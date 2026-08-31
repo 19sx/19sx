@@ -4,7 +4,7 @@
   <img src="https://github.com/19sx/19sx/blob/main/bannerr.png?raw=true" alt="Alexander Herman - Shaping the Future Banner">
 </p>
 
-I'm a 17-year-old aspiring software developer from Augsburg, Germany. 🇩🇪
+I'm an 18-year-old aspiring software developer from Augsburg, Germany. 🇩🇪
 
 I am currently an apprentice (**Auszubildender**) specializing in **IT Specialist for Application Development** (*Fachinformatiker für Anwendungsentwicklung*). I'm passionate about **AI**, **design**, and solving problems with code.
 
@@ -20,7 +20,7 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
 * ✅ **DataCamp Java intermediate** - Completed
 * ✅ **Cisco Networking Basics** - Completed
 * ✅ **Harvard's CS50X** (Introduction to Computer Science) - Completed
-* ⏳ **Harvard's CS50W** (Web Programming with Python and JavaScript) - In Progress
+* ✅ **Cisco CCNA: Introduction to Networks (Part 1)** - Completed
 
 ## 💻 My Tech Stack
 
@@ -78,6 +78,8 @@ I am currently an apprentice (**Auszubildender**) specializing in **IT Specialis
     </td>
   </tr>
 </table>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19sx&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 

@@ -1,84 +1,45 @@
-# Hi there, I'm Alex! 👋
+                                                                           ____ ________               
+                                                                          /_   /   __   \_________  ___
+                                                                           |   \____    /  ___/\  \/  /
+                                                                           |   |  /    /\___ \  >    < 
+                                                                           |___| /____//____  >/__/\_ \
+                                                                                            \/       \/
+_.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._
 
-<p align="center">
-  <img src="https://github.com/19sx/19sx/blob/main/bannerr.png?raw=true" alt="Alexander Herman - Shaping the Future Banner">
-</p>
+                                                                               18 - DE - Apprentice        
+                                                                               
+_.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._.~"~._
 
-I'm an 18-year-old aspiring software developer from Augsburg, Germany. 🇩🇪
-
-I am currently an apprentice (**Auszubildender**) specializing in **IT Specialist for Application Development** (*Fachinformatiker für Anwendungsentwicklung*). I'm passionate about **AI**, **design**, and solving problems with code.
-
-## 🚀 What I'm Up To
-
-* 🌱 I’m currently learning everything about modern application development as part of my apprenticeship.
-* 💻 My main focus is on **Python**, **Java**, and **C**.
-* 🛠️ I'm also exploring **AI development**, **Photoshop**, and **Figma**.
-* 💡 I love collaborating on projects. If you have an idea, let's talk!
-
-
-## 🎓 My Certificates & Learning
-* ✅ **DataCamp Java intermediate** - Completed
-* ✅ **Cisco Networking Basics** - Completed
-* ✅ **Harvard's CS50X** (Introduction to Computer Science) - Completed
-* ✅ **Cisco CCNA: Introduction to Networks (Part 1)** - Completed
-
-## 💻 My Tech Stack
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
-      <br><strong>C</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
-      <br><strong>Java</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br><strong>HTML5</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br><strong>CSS3</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br><strong>Flask</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite" />
-      <br><strong>SQLite</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="Figma" />
-      <br><strong>Figma</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=ps" width="48" height="48" alt="Photoshop" />
-      <br><strong>Photoshop</strong>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=idea" width="48" height="48" alt="IntelliJ" />
-      <br><strong>IntelliJ</strong>
-    </td>
-  </tr>
-</table>
+                                                                                     .,,uod8B8bou,,.
+                                                                            ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
+                                                                       ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
+                                                                       !...:!TVBBBRPFT||||||||||!!^^""'   ||||
+                                                                       !.......:!?|||||!!^^""'            ||||
+                                                                       !.........||||                     ||||
+                                                                       !.........||||  ##                 ||||
+                                                                       !.........||||                     ||||
+                                                                       !.........||||                     ||||
+                                                                       !.........||||                     ||||
+                                                                       !.........||||                     ||||
+                                                                       `.........||||                    ,||||
+                                                                        .;.......||||               _.-!!|||||
+                                                                 .,uodWBBBBb.....||||       _.-!!|||||||||!:'
+                                                              !YBBBBBBBBBBBBBBb..!|||:..-!!|||||||!iof68BBBBBb....
+                                                              !..YBBBBBBBBBBBBBBb!!||||||||!iof68BBBBBBRPFT?!::   `.
+                                                              !....YBBBBBBBBBBBBBBbaaitf68BBBBBBRPFT?!:::::::::     `.
+                                                              !......YBBBBBBBBBBBBBBBBBBBRPFT?!::::::;:!^"`;:::       `.
+                                                              !........YBBBBBBBBBBRPFT?!::::::::::^''...::::::;         iBBbo.
+                                                              `..........YBRPFT?!::::::::::::::::::::::::;iof68bo.      WBBBBbo.
+                                                                `..........:::::::::::::::::::::::;iof688888888888b.     `YBBBP^'
+                                                                  `........::::::::::::::::;iof688888888888888888888b.     `
+                                                                    `......:::::::::;iof688888888888888888888888888888b.
+                                                                      `....:::;iof688888888888888888888888888888888899fT!
+                                                                        `..::!8888888888888888888888888888888899fT|!^"'
+                                                                          `' !!988888888888888888888888899fT|!^"'
+                                                                              `!!8888888888888888899fT|!^"'
+                                                                                `!988888888899fT|!^"'
+                                                                                  `!9899fT|!^"'
+                                                                                    `!^"'
 
 
-## Music keeps me Focused
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hcltkeawbpxxzximwxef76gkyy&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=light)](https://github.com/kittinan/spotify-github-profile)
